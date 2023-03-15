@@ -45,13 +45,13 @@
 
  }
  .botoes-carrossel .botao {
-     background-color:black;
+     background-color: #ffffff;
      width: 15px;
      height: 15px;
      border-radius: 50%;
      border: 2px solid transparent;
      cursor: pointer;
-     border-color: black;
+     border-color:black;
 
  }
 
